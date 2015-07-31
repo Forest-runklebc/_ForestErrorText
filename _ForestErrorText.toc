@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: _ForestErrorText
+## Notes: ForestErrorText is designed to remove error text when an action is performed.
+ForestErrorText.lua
+ForestErrorText.xml
